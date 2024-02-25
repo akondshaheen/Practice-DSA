@@ -9,7 +9,7 @@ The minimum sum is 1+3+5+7=16 and the maximum sum is 3+5+7+9=24. The function pr
 
 **Function Description**
 
-Complete the miniMaxSum function in the editor below.
+Complete the miniMaxSum function in the editor below. 
 
 miniMaxSum has the following parameter(s):
 
